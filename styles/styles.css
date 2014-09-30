@@ -1,0 +1,78 @@
+body {
+  margin: 1em;
+  padding: 0;
+}
+
+div {
+  border: 2px solid white;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+.color1 {
+  background: HotPink;
+}
+
+.color2 {
+  background: Crimson;
+}
+
+.color3 {
+  background: Orange;
+}
+
+.color4 {
+  background: Yellow;
+}
+
+.color5 {
+  background: LimeGreen;
+}
+
+.color6 {
+  background: CornflowerBlue;
+}
+
+.color7 {
+  background: DarkOrchid;
+}
+
+.nocolor {
+  background: DarkGray;
+  border-color: DimGrey;
+}
+
+
+
+
+
+
+
+
+
+
+
+header, footer, main, aside {
+  border: 2px solid Gainsboro;
+  box-sizing: border-box;
+  padding: 1em;
+  margin: 1em 0;
+}
+
+main {
+  float: left;
+  width: 70%;
+}
+
+aside {
+  float: right;
+  width: 25%;
+}
+
+footer {
+  clear: both;
+}
+
+.special {
+  color: HotPink;
+}
